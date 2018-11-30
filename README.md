@@ -1,6 +1,26 @@
-# Anor Londo Poker
+Anor Londo Poker
 
+Project description: 
+3D scene where you can play Poker with all its rules.
 
-Should work if you have OpenGL installed with VS2013.
--
-Deberia de funcionar con OpenGL instalado en VS2013.
+I made everything except: 
+Base images.
+Base music and sounds.
+
+Tools I used: 
+Visual Studio.
+C++.
+OpenGL.
+Maya.
+3dsMax.
+Gimp.
+
+Important features: 
+Height map based terrain.
+Proximity event.
+Complete collisions with scenery.
+Actual hand win probability indicator.
+Enemy AI that tries to get his best possible hand.
+Victories and defeats statistics.
+Victory and defeat states.
+Option to restart the game.
