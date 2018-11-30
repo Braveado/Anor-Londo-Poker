@@ -1,13 +1,13 @@
-Anor Londo Poker
+## Anor Londo Poker
 
-Project description: 
+### Project description: 
 - 3D scene where you can play Poker with all its rules.
 
-I made everything except: 
+### I made everything except: 
 - Base images.
 - Base music and sounds.
 
-Tools I used: 
+### Tools I used: 
 - Visual Studio.
 - C++.
 - OpenGL.
@@ -15,7 +15,7 @@ Tools I used:
 - 3dsMax.
 - Gimp.
 
-Important features: 
+### Important features: 
 - Height map based terrain.
 - Proximity event.
 - Complete collisions with scenery.
